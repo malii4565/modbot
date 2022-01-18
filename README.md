@@ -1,1 +1,1 @@
-# modbot
+Eski ortağımla yaptığım bot
